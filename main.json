@@ -1,5 +1,5 @@
 {
-  "Include": [],
+  "Include": ["https://raw.githubusercontent.com/V2Ray-Android/V2RayTgBotSay/master/main.json"],
   "Contain": [
     {
       "MatchingCond": [
