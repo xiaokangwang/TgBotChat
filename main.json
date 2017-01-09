@@ -16,7 +16,7 @@
         "格式"
       ],
       "MatchingCondTag": "Contrib",
-      "OutPut": "在github上托管者示例文件呢，要不去看看？Include可以用于导入其他同样的配置文件",
+      "OutPut": "Include可以用于导入其他同样的配置文件, Contain区域中，包含着主要的回复信息。其中MatchingCond是消息要满足的全部正则表达式，Tags是要为当前会话加上的标志，OutPut是要返回的消息的正则表达式（自动根据这个正则表达式生成一个回复，让回复更加随机），MatchingCondTag是会话标志要满足的正则表达式",
       "Tags": ""
     }
   ]
