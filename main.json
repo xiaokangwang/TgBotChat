@@ -1,0 +1,23 @@
+{
+  "Include": [],
+  "Contain": [
+    {
+      "MatchingCond": [
+        "(?i)@ShelikhooBOT",
+        "贡献"
+      ],
+      "MatchingCondTag": "",
+      "OutPut": "咱支持自动制定的url上下载并解析对话文件。你要贡献哪个方面的内容？或者详细的说说对话文件的格式？",
+      "Tags": "Contrib"
+    },
+    {
+      "MatchingCond": [
+        "(?i)@ShelikhooBOT",
+        "格式"
+      ],
+      "MatchingCondTag": "Contrib",
+      "OutPut": "在github上托管者示例文件呢，要不去看看？",
+      "Tags": ""
+    }
+  ]
+}
