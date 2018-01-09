@@ -1,6 +1,6 @@
 {
   "Include": ["https://raw.githubusercontent.com/V2Ray-Android/V2RayTgBotSay/master/main.json",
-              "https://cdn.rawgit.com/xiaokangwang/QuickLinuxCommand/4db310d399adbaf0da71bc82d1f6f5c2dd8db3f2/jsonout.json?raw=true"],
+              "https://cdn.rawgit.com/xiaokangwang/QuickLinuxCommand/dee28199e14b5bdb3a5934cb7ca03afc58b93da3/jsonout.json?raw=true"],
   "Contain": [
     {
       "MatchingCond": [
